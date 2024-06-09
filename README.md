@@ -7,7 +7,8 @@
 
 ### Knock me at
 
-[![Email]([https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white](https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0.jpg))](mailto:moshiur.ra01@gmail.com)
-[![Telegram]([https://img.shields.io/badge/aushamim-1f2936?style=flat&logo=telegram&logoColor=white](https://w7.pngwing.com/pngs/411/219/png-transparent-telegram-logo.png))](https://t.me/moshiur_rahman0)
-[![LinkedIn](https://img.shields.io/badge/aushamim-0a66c2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aushamim/](https://www.linkedin.com/in/moshiur-rahman-akash/))
+[![Email](https://img.shields.io/badge/moshiur_rahman-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:moshiur.ra01@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/moshiur_rahman-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshiur-rahman-akash/)
+
+[![Telegram](https://img.shields.io/badge/moshiur_rahman-0866ff?style=flat&logo=telegram&logoColor=acqa)](https://t.me/moshiur_rahman0)
