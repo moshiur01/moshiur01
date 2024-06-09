@@ -1,6 +1,6 @@
 ## Assalamualaikum, I am Moshiur Rahman
 
-- 🏠 A passionate **MERN Stack Developer** from Bangladesh <img src="" width="50"/>
+- 🏠 A passionate **MERN Stack Developer** from Bangladesh <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3VCUpUwa_N3QU-lqKj9CFIiocZgxgvQ5Fw&s" width="50"/>
 - 🚀 I am currently focusing on ** JS core concepts and competitive programming**'
 - 💬 Ask me about React, NodeJS, MongoDB, ExpressJS, Mongoose, Prisma, and PostgreSQL. 
 - 🔖 I like to play games or read books in my free time.
