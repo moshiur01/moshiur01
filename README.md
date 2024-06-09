@@ -29,18 +29,20 @@
   ![](https://img.shields.io/badge/Express-ffffff?style=flat&logo=express&logoColor=black)
   ![](https://img.shields.io/badge/Mongoose-a13939?style=flat&logo=Mongoose&logoColor=white)
   ![](https://img.shields.io/badge/Typescript-31648c?style=flat&logo=typescript&logoColor=white)
-  ![](https://img.shields.io/badge/Firebase-ffa610?style=flat&logo=firebase&logoColor=white)
-  ![](https://img.shields.io/badge/Vercel-292e3c?style=flat&logo=vercel&logoColor=white)
-  ![](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
   ![](https://img.shields.io/badge/Zod-274d82?style=flat&logo=zod&logoColor=white)
 - Databases  
   ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![](https://img.shields.io/badge/PostgreSQL-31648c?style=flat&logo=PostgreSQL&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
 - ORM
+
+  ![](https://img.shields.io/badge/Prisma-274d82?style=flat&logo=prisma&logoColor=white)
+
+- Tools
   
-  ![](https://img.shields.io/badge/Prisma-274d82?style=flat&logo=prisma&logoColor=white)  
-  
+  ![](https://img.shields.io/badge/Firebase-ffa610?style=flat&logo=firebase&logoColor=white)
+  ![](https://img.shields.io/badge/Vercel-292e3c?style=flat&logo=vercel&logoColor=white)
+  ![](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 
 ### Languages
 
