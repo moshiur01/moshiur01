@@ -1,6 +1,6 @@
 ## Assalamualaikum, I am Moshiur Rahman
 
-- 🏠 A passionate **Full Stack Developer ** from Bangladesh <img src="https://png.pngtree.com/png-vector/20221118/ourmid/pngtree-vintage-bangladesh-flag-in-brush-stroke-png-image_6469214.png" width="30"/>
+- 🏠 A passionate **Full Stack Developer** from Bangladesh <img src="https://png.pngtree.com/png-vector/20221118/ourmid/pngtree-vintage-bangladesh-flag-in-brush-stroke-png-image_6469214.png" width="30"/>
 - 🚀 I am currently focusing on **JS core concepts and competitive programming**
 - 💬 Ask me about React, NodeJS, MongoDB, ExpressJS, Mongoose, Prisma, and PostgreSQL. 
 - 🔖 I like to play games or read books in my free time.
