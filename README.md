@@ -43,6 +43,7 @@
   ![](https://img.shields.io/badge/Firebase-ffa610?style=flat&logo=firebase&logoColor=white)
   ![](https://img.shields.io/badge/Vercel-292e3c?style=flat&logo=vercel&logoColor=white)
   ![](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+  ![](https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white)
 
 ### Languages
 
