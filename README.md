@@ -79,12 +79,11 @@
 
 ### Team Projects
 
-[svg](https://github.com/moshiur01/moshiur01/edit/main/README.md#projects)
-
-* **Nexsas:** Collaborated to build 43+ websites in a scalable SaaS template using Next.js, React, Tailwind, and TypeScript. Implemented high-performance UI with GSAP animations, smooth scrolling, and micro-interactions.
+* **Tween UI:** Built an open-source collection of animated React components using GSAP and Tailwind CSS. Developed 18 reusable components and 22 animation-focused blocks with a copy-to-project approach, allowing developers to own and customize the complete source code. [Live Demo](https://tween-ui.vercel.app/)
 * **Keep Vue:** Built an open-source Vue.js component library converted from keep-react for rapid UI development. Developed 40+ customizable UI components to streamline modern, responsive web applications. [Live Demo](https://keepvue.vercel.app/docs/getting-started/introduction/)
-* **OptimAI:** Built a modern AI agency and technology template using Vite and Tailwind CSS. Created immersive web experiences with GSAP animations, Three.js, and Lenis smooth scrolling, with responsive and SEO-friendly layouts. [Live Preview](https://themeforest.net/item/optimai-ai-agency-technology-tailwind-template/63575434)
+* **Nexsas:** Collaborated to build 43+ websites in a scalable SaaS template using Next.js, React, Tailwind, and TypeScript. Implemented high-performance UI with GSAP animations, smooth scrolling, and micro-interactions.
 * **Solyd:** Built a modern solar energy and green-tech website template with responsive, SEO-friendly, and performance-focused layouts. Designed conversion-focused pages for solar, renewable energy, EV charging, and sustainability businesses using Tailwind CSS and GSAP. [Live Preview](https://themeforest.net/item/solyd-solar-energy-greentech-html-template/64409190)
+* **OptimAI:** Built a modern AI agency and technology template using Vite and Tailwind CSS. Created immersive web experiences with GSAP animations, Three.js, and Lenis smooth scrolling, with responsive and SEO-friendly layouts. [Live Preview](https://themeforest.net/item/optimai-ai-agency-technology-tailwind-template/63575434)
 
 ### Education
 
