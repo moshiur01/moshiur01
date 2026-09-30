@@ -2,7 +2,7 @@
 
 * 🏠 A passionate **Full Stack Developer** from Bangladesh <img src="https://png.pngtree.com/png-vector/20221118/ourmid/pngtree-vintage-bangladesh-flag-in-brush-stroke-png-image_6469214.png" width="30"/>
 * 🚀 I am currently focusing on **Web animation with GSAP**
-* 💼 Currently working as a **Jr. Frontend Developer at StaticMania** since August 2024
+* 💼 Currently working as a **Frontend Developer at StaticMania** since August 2024
 * 💬 Ask me about React, Next.js, React Router, NodeJS, MongoDB, ExpressJS, Mongoose, Prisma, PostgreSQL, TypeScript, Tailwind CSS, and GSAP.
 * 🎨 I enjoy building interactive, animation-driven web experiences with smooth scrolling, micro-interactions, and scalable UI systems.
 * 🔖 I like to play games or read books in my free time.
